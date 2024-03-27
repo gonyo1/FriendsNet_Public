@@ -5,15 +5,9 @@ FriendsNet은 학생들의 설문 결과를 기반으로 한 교우관계 그래
 <img src="https://i.imgur.com/6YS0BN4.png" width="60%"/>
 </p>
 
-## 인터페이스
+## 사용방법
+https://github.com/gonyo1/FriendsNet_Public/assets/121369699/e4dd8ced-3b9a-4bc5-9ec0-af6920fd38ff
 
-<p align="center">
-<img src="https://i.imgur.com/6YS0BN4.png" width="60%"/>
-</p>
-
-<p align="center">
-<img src="https://imgur.com/FtbFAq1.png" width="60%"/>
-</p>
 
 ## 기능
 
